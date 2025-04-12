@@ -110,7 +110,7 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/Le_blender_qui_vous_suit_partout_sans_fil_et_sans_limites..png",
-        "mobile_image": "shopify://shop_images/Le_blender_qui_vous_suit_partout_sans_fil_et_sans_limites._585_x_1329_px_2.jpg",
+        "mobile_image": "shopify://shop_images/Add_a_subheading.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
