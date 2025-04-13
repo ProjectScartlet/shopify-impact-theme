@@ -154,6 +154,45 @@
         "overlay_opacity": 0
       }
     },
+    "rich_text_rPW7gd": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_kqAHYL": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_efXjYN": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_fQpC4r": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>Emmenez la puissance partout avec vous.</strong></p><p>Avec sa batterie de 1400 mAh, son chargement sans fil et sa bouteille de 380 ml, ce blender portable mixe vos smoothies en un instant – où que vous soyez. Résistant à l’eau, compact et stylé : il transforme chaque pause en moment vitaminé. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_kqAHYL",
+        "heading_efXjYN",
+        "richtext_fQpC4r"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "image_with_text_overlay_YnjAxK": {
       "type": "image-with-text-overlay",
       "settings": {
@@ -246,24 +285,11 @@
             "link_text": "",
             "link_style": "link"
           }
-        },
-        "item_Vef9kb": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
         }
       },
       "block_order": [
         "item_Mpmf3L",
-        "item_k8exBD",
-        "item_Vef9kb"
+        "item_k8exBD"
       ],
       "settings": {
         "full_width": true,
@@ -284,7 +310,7 @@
         "liquid_gtCrh8": {
           "type": "liquid",
           "settings": {
-            "liquid": "<title>Trustpilot Stars</title>\n</head>\n<body>\n    <a target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: none; display: flex; align-items: center;\">\n        <span style=\"font-size: 15px; font-weight: bold; color: #000;\">4.7</span>\n        <img src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/trustpilot_5_stars.svg?v=1721578152\" alt=\"Trustpilot 5 stars\" style=\"margin: 0 8px; width: 80px; height: auto;\">\n        <span style=\"font-size: 15px; color: #555;\">(4 notes)</span>\n    </a>"
+            "liquid": "<title>Trustpilot Stars</title>\n</head>\n<body>\n    <a target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: none; display: flex; align-items: center;\">\n        <span style=\"font-size: 15px; font-weight: bold; color: #000;\">4.7</span>\n        <img src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/trustpilot_5_stars.svg?v=1721578152\" alt=\"Trustpilot 5 stars\" style=\"margin: 0 8px; width: 80px; height: auto;\">\n        <span style=\"font-size: 15px; color: #555;\">(428 notes)</span>\n    </a>"
           }
         },
         "title_NfKR7W": {
@@ -359,7 +385,7 @@
         "image_khJKkL": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/BEF6343E-4C57-4777-9849-B4B551186A8E_4_5005_c.jpg",
+            "image": "shopify://shop_images/BB65E7A7-C9DE-4DE2-9542-DC6EFC5A3AEB_4_5005_c.jpg",
             "alignment": "center",
             "max_width": 500
           }
@@ -443,7 +469,7 @@
       "settings": {
         "full_width": true,
         "content_size": "medium",
-        "subheading": "Subheading",
+        "subheading": "",
         "title": "",
         "first_tab_open": false,
         "background": "",
@@ -547,6 +573,7 @@
     "logo_list_rCQCKJ",
     "impact-text",
     "image-with-text-overlay",
+    "rich_text_rPW7gd",
     "image_with_text_overlay_YnjAxK",
     "rich_text_7FQjkw",
     "video_pbeTG7",
