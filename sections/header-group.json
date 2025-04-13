@@ -17,20 +17,36 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "Offre limitée de Printemps !",
+            "url": ""
+          }
+        },
+        "message_Vig9Pt": {
+          "type": "message",
+          "settings": {
+            "text": "Paiement 100% sécurisé !",
+            "url": ""
+          }
+        },
+        "message_KLaL7i": {
+          "type": "message",
+          "settings": {
+            "text": "Satisfait ou remboursé !",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_Vig9Pt",
+        "message_KLaL7i"
       ],
       "settings": {
         "enable_sticky": false,
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#1a1a1a",
+        "background": "#1c41c6",
         "background_gradient": "",
         "text_color": "#ffffff"
       }

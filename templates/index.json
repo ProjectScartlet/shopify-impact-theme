@@ -109,7 +109,7 @@
           "type": "item",
           "settings": {
             "title": "",
-            "subheading": "Pourquoi choisir JuicyBlend ?",
+            "subheading": "Pourquoi choisir JuicyBlend?",
             "content": "",
             "button_text": "",
             "button_url": "",
@@ -152,6 +152,31 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
+      }
+    },
+    "rich_text_7FQjkw": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_L7xYEr": {
+          "type": "heading",
+          "settings": {
+            "text": "Résultat Avant/Après",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_L7xYEr"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "faq": {
@@ -205,6 +230,36 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "video_pbeTG7": {
+      "type": "video",
+      "blocks": {
+        "play_fafCfK": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_L4UWQp": {
+          "type": "heading",
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_fafCfK",
+        "heading_L4UWQp"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
     }
   },
   "order": [
@@ -212,6 +267,8 @@
     "logo_list_rCQCKJ",
     "impact-text",
     "image-with-text-overlay",
-    "faq"
+    "rich_text_7FQjkw",
+    "faq",
+    "video_pbeTG7"
   ]
 }
