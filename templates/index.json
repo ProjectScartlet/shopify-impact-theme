@@ -215,6 +215,7 @@
         "item_Mpmf3L": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Video_Mixipod_bc597318-0e0b-4a0a-8b23-a3c8a74714e1.webp",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -227,6 +228,7 @@
         "item_k8exBD": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/PodvIDEO_9293e7c4-3aff-4fbc-99ab-59e5a6b1871a.webp",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -239,6 +241,7 @@
         "item_aMenHy": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ezgif-3ac5239e6560ba.gif",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
