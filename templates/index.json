@@ -161,7 +161,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Chargement_sans_fil_1200_x_900_px_1.png",
+        "image": "shopify://shop_images/Untitled_1000_x_1400_px_1400_x_1000_px_1500_x_1200_px_1600_x_1000_px_1200_x_1000_px_1200_x_1000_px_1200_x_1000_px_1400_x_1000_px_1200_x_1000_px_1500_x_1200_px.png",
         "mobile_image": "shopify://shop_images/Chargement_sans_fil_1200_x_900_px_1.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
