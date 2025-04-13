@@ -219,7 +219,7 @@
             "column_size": "3",
             "title": "Amandine D.",
             "heading_tag": "h4",
-            "content": "<p>J'adore ce blender portable de chez <strong>JuicyBlend</strong> ! Non seulement il est super pratique pour préparer des smoothies frais en un rien de temps, mais en plus il est respectueux de l'environnement. Le design épuré et le matériau durable me donnent l'assurance que je fais un choix éco-responsable. C'est génial de pouvoir profiter d'un produit qui allie performance et respect de la planète. Je recommande vivement à tous ceux qui souhaitent adopter un mode de vie plus durable !</p>",
+            "content": "<p>J'adore le JuicyBlend ! Pratique, rapide et éco-responsable, il allie performance et respect de la planète. Parfait pour un mode de vie durable !</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -232,7 +232,7 @@
             "column_size": "3",
             "title": "Cassandra M.",
             "heading_tag": "h4",
-            "content": "<p>Je suis complètement fan du <strong>JuicyBlend</strong> ! Ce blender est parfait pour l'été. Il est portable, donc je peux l'emmener partout, que ce soit à la plage, au travail ou même en vacances. Il prépare des smoothies et des jus frais en un clin d'œil, et il est super rapide. Je mets des fruits frais, un peu de lait, et hop, quelques secondes plus tard, je peux déguster une boisson ultra rafraîchissante ! C'est un produit pratique, facile à utiliser et à nettoyer. Je le recommande à tous ceux qui aiment les boissons fraîches et qui veulent gagner du temps cet été !<br/><br/></p>",
+            "content": "<p>Le JuicyBlend est top pour l'été ! Rapide, portable et facile à nettoyer, il prépare des jus frais en un rien de temps. Parfait pour les smoothies et jus d'agrumes, je l'adore !<br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -245,7 +245,7 @@
             "column_size": "3",
             "title": "Julie Z.",
             "heading_tag": "h4",
-            "content": "<p>Super pour l'été !</p><p>Je suis ravie de mon blender <strong>JuicyBlend</strong> ! Il est parfait pour préparer des jus frais et naturels en un rien de temps. Sa capacité de 350 ml est idéale pour une portion rapide, et le design compact le rend super portable. Je l'utilise tous les jours pour mes smoothies et jus d'agrumes, et ce que j'adore le plus, c'est qu'il se nettoie super rapidement ! Il est aussi léger et facile à emporter partout avec moi. Si vous aimez les boissons fraîches en été, c'est l'appareil qu'il vous faut !</p>",
+            "content": "<p>Le JuicyBlend est génial ! Portable et super rapide, il prépare des smoothies et jus frais en un clin d'œil. Parfait pour l'été, facile à utiliser et à nettoyer. Idéal pour ceux qui veulent des boissons rafraîchissantes en un rien de temps!</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -331,6 +331,18 @@
             "using_page_builder": false
           }
         },
+        "quantity_selector_UhdPP3": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "image_M6nEaJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ccc.png",
+            "alignment": "start",
+            "max_width": 500
+          }
+        },
         "buy_buttons_K4afzd": {
           "type": "buy_buttons",
           "settings": {
@@ -358,6 +370,8 @@
         "rating_hzPKc6",
         "separator_CbVBPh",
         "pumper_bundles_quantity_breaks_app_block_qb_ff7KTA",
+        "quantity_selector_UhdPP3",
+        "image_M6nEaJ",
         "buy_buttons_K4afzd",
         "pickup_availability_aFGtVF"
       ],
