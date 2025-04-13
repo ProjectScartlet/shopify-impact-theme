@@ -331,10 +331,6 @@
             "using_page_builder": false
           }
         },
-        "quantity_selector_UhdPP3": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
         "buy_buttons_K4afzd": {
           "type": "buy_buttons",
           "settings": {
@@ -362,7 +358,6 @@
         "rating_hzPKc6",
         "separator_CbVBPh",
         "pumper_bundles_quantity_breaks_app_block_qb_ff7KTA",
-        "quantity_selector_UhdPP3",
         "buy_buttons_K4afzd",
         "pickup_availability_aFGtVF"
       ],
