@@ -304,7 +304,7 @@
         "price_nnaahk": {
           "type": "price",
           "settings": {
-            "show_taxes_notice": false
+            "show_taxes_notice": true
           }
         },
         "pumper_bundles_quantity_breaks_app_block_bundle_Ai6cXC": {
