@@ -97,26 +97,26 @@
             "content": ""
           }
         },
-        "text": {
-          "type": "text",
-          "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
-            "enable_follow_on_shop": true
-          }
-        },
         "links_ACFeAC": {
           "type": "links",
           "settings": {
             "menu": "footer",
             "show_menu_title": true
           }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "title": "Nous contacter",
+            "content": "<p><strong>Service client</strong>:support@juicyblend.fr</p><p><strong>Horaires</strong> : Du Lun au Ven de 9h à 12h et de 14h à 18h / Sam et Dim de 10h à 12h</p><p></p>",
+            "enable_follow_on_shop": true
+          }
         }
       },
       "block_order": [
         "newsletter",
-        "text",
-        "links_ACFeAC"
+        "links_ACFeAC",
+        "text"
       ],
       "settings": {
         "show_social_media": true,
