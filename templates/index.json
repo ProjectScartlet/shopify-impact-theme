@@ -342,6 +342,14 @@
         "pickup_availability_aFGtVF": {
           "type": "pickup_availability",
           "settings": {}
+        },
+        "image_khJKkL": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Livraison_gratuite.jpg",
+            "alignment": "start",
+            "max_width": 500
+          }
         }
       },
       "block_order": [
@@ -356,7 +364,8 @@
         "pumper_bundles_quantity_breaks_app_block_qb_ff7KTA",
         "image_M6nEaJ",
         "buy_buttons_K4afzd",
-        "pickup_availability_aFGtVF"
+        "pickup_availability_aFGtVF",
+        "image_khJKkL"
       ],
       "settings": {
         "full_width": true,
