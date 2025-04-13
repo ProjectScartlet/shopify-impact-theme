@@ -430,7 +430,7 @@
       "settings": {
         "full_width": true,
         "content_size": "medium",
-        "subheading": "Subheading",
+        "subheading": "",
         "title": "",
         "first_tab_open": false,
         "background": "",
