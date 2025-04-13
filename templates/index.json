@@ -215,11 +215,11 @@
         "item_Mpmf3L": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Video_Mixipod_bc597318-0e0b-4a0a-8b23-a3c8a74714e1.webp",
+            "image": "shopify://shop_images/ezgif-3ac5239e6560ba.gif",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Amandine D.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>J'adore ce blender portable de chez <strong>JuicyBlend</strong> ! Non seulement il est super pratique pour préparer des smoothies frais en un rien de temps, mais en plus il est respectueux de l'environnement. Le design épuré et le matériau durable me donnent l'assurance que je fais un choix éco-responsable. C'est génial de pouvoir profiter d'un produit qui allie performance et respect de la planète. Je recommande vivement à tous ceux qui souhaitent adopter un mode de vie plus durable !</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -230,9 +230,9 @@
           "settings": {
             "image": "shopify://shop_images/PodvIDEO_9293e7c4-3aff-4fbc-99ab-59e5a6b1871a.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Cassandra M.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Je suis complètement fan du <strong>JuicyBlend</strong> ! Ce blender est parfait pour l'été. Il est portable, donc je peux l'emmener partout, que ce soit à la plage, au travail ou même en vacances. Il prépare des smoothies et des jus frais en un clin d'œil, et il est super rapide. Je mets des fruits frais, un peu de lait, et hop, quelques secondes plus tard, je peux déguster une boisson ultra rafraîchissante ! C'est un produit pratique, facile à utiliser et à nettoyer. Je le recommande à tous ceux qui aiment les boissons fraîches et qui veulent gagner du temps cet été !<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -241,11 +241,11 @@
         "item_aMenHy": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ezgif-3ac5239e6560ba.gif",
+            "image": "shopify://shop_images/ezgif-150ec09653c200.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Julie Z.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Super pour l'été !</p><p>Je suis ravie de mon blender <strong>JuicyBlend</strong> ! Il est parfait pour préparer des jus frais et naturels en un rien de temps. Sa capacité de 350 ml est idéale pour une portion rapide, et le design compact le rend super portable. Je l'utilise tous les jours pour mes smoothies et jus d'agrumes, et ce que j'adore le plus, c'est qu'il se nettoie super rapidement ! Il est aussi léger et facile à emporter partout avec moi. Si vous aimez les boissons fraîches en été, c'est l'appareil qu'il vous faut !</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -321,6 +321,99 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "featured_product_rckLBw": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_74jgWY": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title_NfKR7W": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_jGh9pP": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_nnaahk": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_hzPKc6": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_CbVBPh": {
+          "type": "separator",
+          "settings": {}
+        },
+        "variant_picker_4JLyHK": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_UhdPP3": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_K4afzd": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_aFGtVF": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vendor_74jgWY",
+        "title_NfKR7W",
+        "badges_jGh9pP",
+        "price_nnaahk",
+        "rating_hzPKc6",
+        "separator_CbVBPh",
+        "variant_picker_4JLyHK",
+        "quantity_selector_UhdPP3",
+        "buy_buttons_K4afzd",
+        "pickup_availability_aFGtVF"
+      ],
+      "settings": {
+        "full_width": true,
+        "product": "portable-electric-juicer-blender-usb-mini-fruit-mixers-juicers-fruit-extractors-food-milkshake-multifunction-juice-maker-machine",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
     }
   },
   "order": [
@@ -331,6 +424,7 @@
     "rich_text_7FQjkw",
     "video_pbeTG7",
     "multi_column_zM4ftk",
-    "faq"
+    "faq",
+    "featured_product_rckLBw"
   ]
 }
