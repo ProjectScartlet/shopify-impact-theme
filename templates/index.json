@@ -273,19 +273,6 @@
             "link_style": "link"
           }
         },
-        "item_k8exBD": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/PodvIDEO_9293e7c4-3aff-4fbc-99ab-59e5a6b1871a.webp",
-            "column_size": "3",
-            "title": "Cassandra M.",
-            "heading_tag": "h4",
-            "content": "<p>Le JuicyBlend est top pour l'été ! Rapide, portable et facile à nettoyer, il prépare des jus frais en un rien de temps. Parfait pour les smoothies et jus d'agrumes, je l'adore !<br/></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_8Jrtrd": {
           "type": "item",
           "settings": {
@@ -298,12 +285,25 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_k8exBD": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/PodvIDEO_9293e7c4-3aff-4fbc-99ab-59e5a6b1871a.webp",
+            "column_size": "3",
+            "title": "Cassandra M.",
+            "heading_tag": "h4",
+            "content": "<p>Le JuicyBlend est top pour l'été ! Rapide, portable et facile à nettoyer, il prépare des jus frais en un rien de temps. Parfait pour les smoothies et jus d'agrumes, je l'adore !<br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
         "item_Mpmf3L",
-        "item_k8exBD",
-        "item_8Jrtrd"
+        "item_8Jrtrd",
+        "item_k8exBD"
       ],
       "settings": {
         "full_width": true,
