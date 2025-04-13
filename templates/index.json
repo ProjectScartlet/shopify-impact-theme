@@ -307,6 +307,13 @@
             "show_taxes_notice": false
           }
         },
+        "pumper_bundles_quantity_breaks_app_block_bundle_Ai6cXC": {
+          "type": "shopify://apps/pumper-bundles-quantity-breaks/blocks/app-block-bundle/0856870d-2aca-4b1e-a662-cf1797f61270",
+          "settings": {
+            "selected_product": "portable-electric-juicer-blender-usb-mini-fruit-mixers-juicers-fruit-extractors-food-milkshake-multifunction-juice-maker-machine",
+            "using_page_builder": false
+          }
+        },
         "rating_hzPKc6": {
           "type": "rating",
           "settings": {
@@ -354,6 +361,7 @@
         "text_jQAgcC",
         "liquid_eMGrV9",
         "price_nnaahk",
+        "pumper_bundles_quantity_breaks_app_block_bundle_Ai6cXC",
         "rating_hzPKc6",
         "separator_CbVBPh",
         "variant_picker_4JLyHK",
