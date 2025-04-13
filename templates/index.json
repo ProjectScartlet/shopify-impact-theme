@@ -314,12 +314,6 @@
             "using_page_builder": false
           }
         },
-        "rating_hzPKc6": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
         "separator_CbVBPh": {
           "type": "separator",
           "settings": {}
@@ -330,10 +324,6 @@
             "selected_product": "{{section.settings.product}}",
             "using_page_builder": false
           }
-        },
-        "quantity_selector_BkPb4T": {
-          "type": "quantity_selector",
-          "settings": {}
         },
         "image_M6nEaJ": {
           "type": "image",
@@ -367,10 +357,8 @@
         "liquid_eMGrV9",
         "price_nnaahk",
         "pumper_bundles_quantity_breaks_app_block_bundle_Ai6cXC",
-        "rating_hzPKc6",
         "separator_CbVBPh",
         "pumper_bundles_quantity_breaks_app_block_qb_ff7KTA",
-        "quantity_selector_BkPb4T",
         "image_M6nEaJ",
         "buy_buttons_K4afzd",
         "pickup_availability_aFGtVF"
