@@ -289,6 +289,12 @@
           "type": "badges",
           "settings": {}
         },
+        "text_jQAgcC": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>ÉLU #1 DES BLENDERS PORTABLES EN FRANCE </strong></p>"
+          }
+        },
         "liquid_eMGrV9": {
           "type": "liquid",
           "settings": {
@@ -345,6 +351,7 @@
         "liquid_gtCrh8",
         "title_NfKR7W",
         "badges_jGh9pP",
+        "text_jQAgcC",
         "liquid_eMGrV9",
         "price_nnaahk",
         "rating_hzPKc6",
