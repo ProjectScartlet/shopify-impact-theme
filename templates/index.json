@@ -246,25 +246,11 @@
             "link_text": "",
             "link_style": "link"
           }
-        },
-        "item_aMenHy": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/ezgif-150ec09653c200.webp",
-            "column_size": "3",
-            "title": "Julie Z.",
-            "heading_tag": "h4",
-            "content": "<p>Le JuicyBlend est génial ! Portable et super rapide, il prépare des smoothies et jus frais en un clin d'œil. Parfait pour l'été, facile à utiliser et à nettoyer. Idéal pour ceux qui veulent des boissons rafraîchissantes en un rien de temps!</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
         }
       },
       "block_order": [
         "item_Mpmf3L",
-        "item_k8exBD",
-        "item_aMenHy"
+        "item_k8exBD"
       ],
       "settings": {
         "full_width": true,
