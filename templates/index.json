@@ -385,58 +385,6 @@
         "input_text_color": ""
       }
     },
-    "faq": {
-      "type": "faq",
-      "blocks": {
-        "166442457738b23caf-0": {
-          "type": "item",
-          "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
-          }
-        },
-        "166442457738b23caf-1": {
-          "type": "item",
-          "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
-          }
-        },
-        "166442457738b23caf-2": {
-          "type": "item",
-          "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "166442457738b23caf-0",
-        "166442457738b23caf-1",
-        "166442457738b23caf-2"
-      ],
-      "settings": {
-        "full_width": false,
-        "subheading": "",
-        "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
-        "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "start",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
-      }
-    },
     "tabs_ajVjaF": {
       "type": "tabs",
       "blocks": {
@@ -491,6 +439,58 @@
         "heading_color": "",
         "heading_gradient": ""
       }
+    },
+    "faq_XztqTm": {
+      "type": "faq",
+      "blocks": {
+        "item_ynXqYy": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je l’utiliser pour des recettes autres que des smoothies ?",
+            "content": "<p>Absolument ! Bien que ce blender soit idéal pour préparer des smoothies, vous pouvez aussi l'utiliser pour réaliser des sauces, des soupes froides, ou même des shakes protéinés. Il est polyvalent et vous permettra de varier vos recettes.</p>"
+          }
+        },
+        "item_jeN3QM": {
+          "type": "item",
+          "settings": {
+            "title": "Est-il puissant pour mélanger des fruits congelés ?",
+            "content": "<p>Oui, ce blender est conçu pour mélanger facilement des fruits congelés, de la glace et d'autres ingrédients solides. Sa puissance garantit une texture lisse, parfaite pour des smoothies ou autres boissons glacées.</p>"
+          }
+        },
+        "item_ENRFFq": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce qu’il est parfait pour une utilisation quotidienne ?",
+            "content": "<p>Biensur ! Ce blender est non seulement pratique mais aussi durable, ce qui le rend parfait pour une utilisation quotidienne. Que ce soit pour un smoothie rapide le matin ou un shake après l’entraînement, il répond à tous vos besoins de manière efficace et rapide.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_ynXqYy",
+        "item_jeN3QM",
+        "item_ENRFFq"
+      ],
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -503,7 +503,7 @@
     "video_pbeTG7",
     "multi_column_zM4ftk",
     "featured_product_rckLBw",
-    "faq",
-    "tabs_ajVjaF"
+    "tabs_ajVjaF",
+    "faq_XztqTm"
   ]
 }
