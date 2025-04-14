@@ -154,45 +154,6 @@
         "overlay_opacity": 0
       }
     },
-    "rich_text_rPW7gd": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_kqAHYL": {
-          "type": "subheading",
-          "settings": {
-            "text": ""
-          }
-        },
-        "heading_efXjYN": {
-          "type": "heading",
-          "settings": {
-            "text": "",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_fQpC4r": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p><strong>Emmenez la puissance partout avec vous.</strong></p><p>Avec sa batterie de 1400 mAh, son chargement sans fil et sa bouteille de 380 ml, ce blender portable mixe vos smoothies en un instant – où que vous soyez. Résistant à l’eau, compact et stylé : il transforme chaque pause en moment vitaminé. </p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_kqAHYL",
-        "heading_efXjYN",
-        "richtext_fQpC4r"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "image_with_text_overlay_YnjAxK": {
       "type": "image-with-text-overlay",
       "settings": {
@@ -200,7 +161,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Untitled_1000_x_1400_px_1400_x_1000_px_1500_x_1200_px_1600_x_1000_px_1200_x_1000_px_1200_x_1000_px_1200_x_1000_px_1400_x_1000_px_1200_x_1000_px_1500_x_1200_px.png",
+        "image": "shopify://shop_images/Chargement_sans_fil_1200_x_900_px_1.png",
         "mobile_image": "shopify://shop_images/Chargement_sans_fil_1200_x_900_px_1.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -678,7 +639,6 @@
     "logo_list_rCQCKJ",
     "impact-text",
     "image-with-text-overlay",
-    "rich_text_rPW7gd",
     "image_with_text_overlay_YnjAxK",
     "rich_text_7FQjkw",
     "video_pbeTG7",
