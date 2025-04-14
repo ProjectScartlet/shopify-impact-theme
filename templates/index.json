@@ -533,13 +533,13 @@
         "contact_form_size": "large",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#000000",
         "heading_color": "",
         "heading_gradient": "",
         "contact_background": "",
-        "contact_text_color": "",
-        "button_background": "#0e41a9",
-        "button_text_color": ""
+        "contact_text_color": "#000000",
+        "button_background": "#b6c1ef",
+        "button_text_color": "#000000"
       }
     },
     "174456584203c5ad9c": {
