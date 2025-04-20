@@ -433,6 +433,14 @@
             "payment_button_text_color": ""
           }
         },
+        "image_nyMMrU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Bouteille_en_verre_800_x_1400_px_1920_x_1080_px_600_x_600_px_1000_x_200_px.png",
+            "alignment": "center",
+            "max_width": 380
+          }
+        },
         "pickup_availability_aFGtVF": {
           "type": "pickup_availability",
           "settings": {}
@@ -458,6 +466,7 @@
         "pumper_bundles_quantity_breaks_app_block_qb_ff7KTA",
         "image_M6nEaJ",
         "buy_buttons_K4afzd",
+        "image_nyMMrU",
         "pickup_availability_aFGtVF",
         "image_khJKkL"
       ],
