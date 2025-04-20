@@ -187,7 +187,7 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/Bouteille_en_verre_800_x_1400_px_1920_x_1080_px_3.png",
-        "mobile_image": "shopify://shop_images/Untitled_design_3.png",
+        "mobile_image": "shopify://shop_images/Bouteille_en_verre_800_x_1400_px_1920_x_1080_px_600_x_600_px.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
