@@ -211,6 +211,31 @@
         "overlay_opacity": 0
       }
     },
+    "rich_text_zhWCiD": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_UJbFUf": {
+          "type": "heading",
+          "settings": {
+            "text": "Démonstration :",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_UJbFUf"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "video_gRaT87": {
       "type": "video",
       "settings": {
@@ -730,6 +755,7 @@
     "rich_text_k3HGb3",
     "image_with_text_overlay_LRcfet",
     "image_with_text_overlay_7WrUjU",
+    "rich_text_zhWCiD",
     "video_gRaT87",
     "rich_text_7FQjkw",
     "video_pbeTG7",
