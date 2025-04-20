@@ -418,7 +418,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Untitled_500_x_200_px_500_x_100_px_1.png",
-            "alignment": "start",
+            "alignment": "center",
             "max_width": 500
           }
         },
