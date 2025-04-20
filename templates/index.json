@@ -154,22 +154,6 @@
         "overlay_opacity": 0
       }
     },
-    "image_with_text_overlay_YnjAxK": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Chargement_sans_fil_1200_x_900_px_1.png",
-        "mobile_image": "shopify://shop_images/Chargement_sans_fil_1200_x_900_px_1.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "rich_text_7FQjkw": {
       "type": "rich-text",
       "blocks": {
@@ -672,7 +656,6 @@
     "logo_list_rCQCKJ",
     "impact-text",
     "image-with-text-overlay",
-    "image_with_text_overlay_YnjAxK",
     "rich_text_7FQjkw",
     "video_pbeTG7",
     "multi_column_zM4ftk",
