@@ -203,9 +203,23 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/Bouteille_en_verre_3.png",
-        "mobile_image": "shopify://shop_images/Bouteille_en_verre_800_x_1400_px.png",
+        "mobile_image": "shopify://shop_images/Bouteille_en_verre_800_x_1400_px_2.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "video_gRaT87": {
+      "type": "video",
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/The Fresh Juice™ Bottle Blender is Here!.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
@@ -318,20 +332,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "video_gRaT87": {
-      "type": "video",
-      "settings": {
-        "full_width": false,
-        "allow_transparent_header": false,
-        "autoplay": true,
-        "video_size": "auto",
-        "video": "shopify://files/videos/The Fresh Juice™ Bottle Blender is Here!.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "featured_product_rckLBw": {
