@@ -154,34 +154,33 @@
         "overlay_opacity": 0
       }
     },
-    "image_with_text_overlay_LRcfet": {
-      "type": "image-with-text-overlay",
+    "rich_text_k3HGb3": {
+      "type": "rich-text",
       "blocks": {
-        "subheading_7XTU3w": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_UJgrzb": {
+        "heading_yBGMkH": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_pWcQtE": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "text": "Conçu à partir de matériaux haut de gamme.",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
           }
         }
       },
       "block_order": [
-        "subheading_7XTU3w",
-        "heading_UJgrzb",
-        "richtext_pWcQtE"
+        "heading_yBGMkH"
       ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_LRcfet": {
+      "type": "image-with-text-overlay",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
@@ -698,6 +697,7 @@
     "logo_list_rCQCKJ",
     "impact-text",
     "image-with-text-overlay",
+    "rich_text_k3HGb3",
     "image_with_text_overlay_LRcfet",
     "rich_text_7FQjkw",
     "video_pbeTG7",
