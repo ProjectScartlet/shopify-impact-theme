@@ -154,63 +154,6 @@
         "overlay_opacity": 0
       }
     },
-    "rich_text_k3HGb3": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_yBGMkH": {
-          "type": "heading",
-          "settings": {
-            "text": "Conçu à partir de matériaux haut de gamme.",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_yBGMkH"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "image_with_text_overlay_LRcfet": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Bouteille_en_verre_800_x_1400_px_1920_x_1080_px_3.png",
-        "mobile_image": "shopify://shop_images/Bouteille_en_verre_800_x_1400_px_1920_x_1080_px_600_x_600_px.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "image_with_text_overlay_7WrUjU": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Bouteille_en_verre_800_x_1400_px_1920_x_1080_px.png",
-        "mobile_image": "shopify://shop_images/Bouteille_en_verre_800_x_1400_px_2.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "rich_text_zhWCiD": {
       "type": "rich-text",
       "blocks": {
@@ -244,54 +187,6 @@
         "autoplay": true,
         "video_size": "auto",
         "video": "shopify://files/videos/The Fresh Juice™ Bottle Blender is Here!.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "rich_text_7FQjkw": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_L7xYEr": {
-          "type": "heading",
-          "settings": {
-            "text": "Résultat Avant/Après",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_L7xYEr"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "video_pbeTG7": {
-      "type": "video",
-      "blocks": {
-        "play_fafCfK": {
-          "type": "play",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "play_fafCfK"
-      ],
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": true,
-        "video_size": "auto",
-        "video": "shopify://files/videos/Chargement sans fil (1200 x 900 px).mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
@@ -761,13 +656,8 @@
     "logo_list_rCQCKJ",
     "impact-text",
     "image-with-text-overlay",
-    "rich_text_k3HGb3",
-    "image_with_text_overlay_LRcfet",
-    "image_with_text_overlay_7WrUjU",
     "rich_text_zhWCiD",
     "video_gRaT87",
-    "rich_text_7FQjkw",
-    "video_pbeTG7",
     "multi_column_zM4ftk",
     "featured_product_rckLBw",
     "tabs_ajVjaF",
