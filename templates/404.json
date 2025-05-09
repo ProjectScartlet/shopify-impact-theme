@@ -1,1 +1,104 @@
-{"sections":{"main":{"type":"main-not-found","settings":{}}},"order":["main"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_with_text_overlay_phKkJy": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_jYVkP7": {
+          "type": "heading",
+          "settings": {
+            "text": "Soulagez les piqûres de moustiques en un éclair.",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_jYVkP7"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/71XL51Rps4S._AC_SX679.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 28
+      }
+    },
+    "impact_text_8DcdGg": {
+      "type": "impact-text",
+      "blocks": {
+        "item_VrfrnM": {
+          "type": "item",
+          "settings": {
+            "title": "",
+            "subheading": "Qu’est-ce qui rend MosquiPen unique ?",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_VrfrnM"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "image_with_text_overlay_jCQjVW": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Image_09-05-2025_a_21.18-removebg-preview.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "main": {
+      "type": "main-not-found",
+      "disabled": true,
+      "settings": {}
+    }
+  },
+  "order": [
+    "image_with_text_overlay_phKkJy",
+    "impact_text_8DcdGg",
+    "image_with_text_overlay_jCQjVW",
+    "main"
+  ]
+}
