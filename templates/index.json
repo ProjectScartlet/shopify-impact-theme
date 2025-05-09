@@ -291,6 +291,12 @@
             "show_taxes_notice": true
           }
         },
+        "liquid_nJGQfr": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div id=\"flash-offer\" style=\"width: 280px; padding: 16px; border-radius: 12px; background: #fce8e6; color: #b00000; font-family: sans-serif; text-align: center; font-weight: bold; box-shadow: 0 2px 8px rgba(0,0,0,0.1);\">\n  <div style=\"font-size: 28px;\">-20€</div>\n  <div style=\"font-size: 14px; margin-top: 6px;\">Offre se termine dans :</div>\n  <div id=\"countdown\" style=\"font-size: 20px; margin-top: 6px;\">Chargement...</div>\n</div>\n\n<script>\n  document.addEventListener(\"DOMContentLoaded\", function () {\n    const countdownDisplay = document.getElementById(\"countdown\");\n    const endTime = new Date().getTime() + (3 * 60 * 60 + 37 * 60) * 1000; // 3h37 en millisecondes\n\n    function updateCountdown() {\n      const now = new Date().getTime();\n      const distance = endTime - now;\n\n      if (distance <= 0) {\n        countdownDisplay.textContent = \"Offre expirée\";\n        return;\n      }\n\n      const hours = Math.floor(distance / (1000 * 60 * 60));\n      const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));\n      const seconds = Math.floor((distance % (1000 * 60)) / 1000);\n\n      countdownDisplay.textContent =\n        `${hours.toString().padStart(2, '0')}:` +\n        `${minutes.toString().padStart(2, '0')}:` +\n        `${seconds.toString().padStart(2, '0')}`;\n    }\n\n    updateCountdown();\n    setInterval(updateCountdown, 1000);\n  });\n</script>"
+          }
+        },
         "pumper_bundles_quantity_breaks_app_block_bundle_Ai6cXC": {
           "type": "shopify://apps/pumper-bundles-quantity-breaks/blocks/app-block-bundle/0856870d-2aca-4b1e-a662-cf1797f61270",
           "settings": {
@@ -356,6 +362,7 @@
         "liquid_gtCrh8",
         "liquid_eMGrV9",
         "price_nnaahk",
+        "liquid_nJGQfr",
         "pumper_bundles_quantity_breaks_app_block_bundle_Ai6cXC",
         "separator_CbVBPh",
         "pumper_bundles_quantity_breaks_app_block_qb_ff7KTA",
