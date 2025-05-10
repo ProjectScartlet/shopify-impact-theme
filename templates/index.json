@@ -355,6 +355,12 @@
             "liquid": "<!-- Compte à rebours 8 minutes avec -20€ + Stock clignotant -->\n<div class=\"countdown-wrapper\">\n  <h3 class=\"countdown-title\">🎉 Offre limitée : -20 € pendant encore :</h3>\n  <div class=\"countdown-timer\">\n    <div class=\"countdown-block\">\n      <span class=\"countdown-number\" id=\"minutes\">08</span>\n      <span class=\"countdown-label\">minutes</span>\n    </div>\n    <div class=\"countdown-block\">\n      <span class=\"countdown-number\" id=\"seconds\">00</span>\n      <span class=\"countdown-label\">secondes</span>\n    </div>\n  </div>\n  <p class=\"stock-alert\">⚠️ Stock restant : <strong>3</strong></p>\n</div>\n\n<style>\n  .countdown-wrapper {\n    background-color: #fef3f0;\n    color: #e63946;\n    text-align: center;\n    padding: 20px;\n    border-radius: 20px;\n    margin: 20px auto;\n    max-width: 480px;\n    font-family: 'Helvetica Neue', sans-serif;\n    box-shadow: 0 4px 12px rgba(0,0,0,0.1);\n  }\n  .countdown-title {\n    font-size: 1.5rem;\n    margin-bottom: 15px;\n  }\n  .countdown-timer {\n    display: flex;\n    justify-content: center;\n    gap: 30px;\n    margin-bottom: 10px;\n  }\n  .countdown-block {\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n  }\n  .countdown-number {\n    font-size: 2.8rem;\n    font-weight: 700;\n  }\n  .countdown-label {\n    font-size: 1rem;\n    margin-top: 4px;\n  }\n  .stock-alert {\n    font-size: 1.1rem;\n    font-weight: bold;\n    color: #e63946;\n    animation: blink 1.2s infinite;\n    margin-top: 10px;\n  }\n\n  @keyframes blink {\n    0%, 100% { opacity: 1; }\n    50% { opacity: 0.2; }\n  }\n</style>\n\n<script>\n  (function() {\n    var totalTime = 8 * 60; // 8 minutes\n    var minutesElem = document.getElementById('minutes');\n    var secondsElem = document.getElementById('seconds');\n\n    function updateTimer() {\n      var minutes = Math.floor(totalTime / 60);\n      var seconds = totalTime % 60;\n\n      minutesElem.textContent = String(minutes).padStart(2, '0');\n      secondsElem.textContent = String(seconds).padStart(2, '0');\n\n      if (totalTime > 0) {\n        totalTime--;\n      } else {\n        clearInterval(timerInterval);\n        document.querySelector('.countdown-title').textContent = '⏰ Offre expirée !';\n        document.querySelector('.stock-alert').style.display = 'none';\n      }\n    }\n\n    var timerInterval = setInterval(updateTimer, 1000);\n    updateTimer();\n  })();\n</script>"
           }
         },
+        "liquid_fhUycc": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!-- Popup promo ou preuve sociale -->\n<div id=\"popup-box\" class=\"popup-hidden\">\n  <p>🎉 Quelqu’un vient d’acheter un blender à Paris !</p>\n</div>\n\n<style>\n  #popup-box {\n    position: fixed;\n    bottom: 20px;\n    left: 20px;\n    background-color: #4A90E2;\n    color: white;\n    padding: 15px 20px;\n    border-radius: 15px;\n    font-size: 0.95rem;\n    box-shadow: 0 4px 10px rgba(0,0,0,0.2);\n    z-index: 9999;\n    opacity: 0;\n    transition: opacity 0.5s ease;\n  }\n  #popup-box.popup-visible {\n    opacity: 1;\n  }\n</style>\n\n<script>\n  // Affiche le popup après 5 secondes\n  setTimeout(function() {\n    var popup = document.getElementById('popup-box');\n    popup.classList.add('popup-visible');\n\n    // Cache le popup après 6 secondes\n    setTimeout(function() {\n      popup.classList.remove('popup-visible');\n    }, 6000);\n  }, 5000);\n</script>"
+          }
+        },
         "pumper_bundles_quantity_breaks_app_block_bundle_Ai6cXC": {
           "type": "shopify://apps/pumper-bundles-quantity-breaks/blocks/app-block-bundle/0856870d-2aca-4b1e-a662-cf1797f61270",
           "settings": {
@@ -414,6 +420,7 @@
         "liquid_tBHdPU",
         "liquid_KPaYCN",
         "liquid_nJGQfr",
+        "liquid_fhUycc",
         "pumper_bundles_quantity_breaks_app_block_bundle_Ai6cXC",
         "separator_CbVBPh",
         "pumper_bundles_quantity_breaks_app_block_qb_ff7KTA",
