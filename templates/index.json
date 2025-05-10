@@ -349,12 +349,6 @@
             "liquid": ""
           }
         },
-        "liquid_nJGQfr": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<!-- Compte à rebours 8 minutes avec -20€ + Stock clignotant -->\n<div class=\"countdown-wrapper\">\n  <h3 class=\"countdown-title\">🎉 Offre limitée : -20 € pendant encore :</h3>\n  <div class=\"countdown-timer\">\n    <div class=\"countdown-block\">\n      <span class=\"countdown-number\" id=\"minutes\">08</span>\n      <span class=\"countdown-label\">minutes</span>\n    </div>\n    <div class=\"countdown-block\">\n      <span class=\"countdown-number\" id=\"seconds\">00</span>\n      <span class=\"countdown-label\">secondes</span>\n    </div>\n  </div>\n  <p class=\"stock-alert\">⚠️ Stock restant : <strong>3</strong></p>\n</div>\n\n<style>\n  .countdown-wrapper {\n    background-color: #fef3f0;\n    color: #e63946;\n    text-align: center;\n    padding: 20px;\n    border-radius: 20px;\n    margin: 20px auto;\n    max-width: 480px;\n    font-family: 'Helvetica Neue', sans-serif;\n    box-shadow: 0 4px 12px rgba(0,0,0,0.1);\n  }\n  .countdown-title {\n    font-size: 1.5rem;\n    margin-bottom: 15px;\n  }\n  .countdown-timer {\n    display: flex;\n    justify-content: center;\n    gap: 30px;\n    margin-bottom: 10px;\n  }\n  .countdown-block {\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n  }\n  .countdown-number {\n    font-size: 2.8rem;\n    font-weight: 700;\n  }\n  .countdown-label {\n    font-size: 1rem;\n    margin-top: 4px;\n  }\n  .stock-alert {\n    font-size: 1.1rem;\n    font-weight: bold;\n    color: #e63946;\n    animation: blink 1.2s infinite;\n    margin-top: 10px;\n  }\n\n  @keyframes blink {\n    0%, 100% { opacity: 1; }\n    50% { opacity: 0.2; }\n  }\n</style>\n\n<script>\n  (function() {\n    var totalTime = 8 * 60; // 8 minutes\n    var minutesElem = document.getElementById('minutes');\n    var secondsElem = document.getElementById('seconds');\n\n    function updateTimer() {\n      var minutes = Math.floor(totalTime / 60);\n      var seconds = totalTime % 60;\n\n      minutesElem.textContent = String(minutes).padStart(2, '0');\n      secondsElem.textContent = String(seconds).padStart(2, '0');\n\n      if (totalTime > 0) {\n        totalTime--;\n      } else {\n        clearInterval(timerInterval);\n        document.querySelector('.countdown-title').textContent = '⏰ Offre expirée !';\n        document.querySelector('.stock-alert').style.display = 'none';\n      }\n    }\n\n    var timerInterval = setInterval(updateTimer, 1000);\n    updateTimer();\n  })();\n</script>"
-          }
-        },
         "liquid_fhUycc": {
           "type": "liquid",
           "settings": {
@@ -377,6 +371,12 @@
           "settings": {
             "selected_product": "{{section.settings.product}}",
             "using_page_builder": false
+          }
+        },
+        "liquid_nJGQfr": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!-- Compte à rebours avec pression psychologique et preuve sociale -->\n<div class=\"countdown-wrapper\">\n  <h3 class=\"countdown-title\">\n    🔥 Dépêchez-vous : <span class=\"highlight-red\">-20 €</span> de réduction pendant encore :\n  </h3>\n  <div class=\"countdown-timer\">\n    <div class=\"countdown-block\">\n      <span class=\"countdown-number\" id=\"minutes\">08</span>\n      <span class=\"countdown-label\">minutes</span>\n    </div>\n    <div class=\"countdown-block\">\n      <span class=\"countdown-number\" id=\"seconds\">00</span>\n      <span class=\"countdown-label\">secondes</span>\n    </div>\n  </div>\n  <p class=\"stock-message\"><span class=\"highlight-red blinking\">⚠️ Plus que 5 en stock</span></p>\n</div>\n\n<style>\n  .countdown-wrapper {\n    text-align: center;\n    padding: 20px 10px;\n    font-family: 'Helvetica Neue', sans-serif;\n    max-width: 500px;\n    margin: 0 auto;\n  }\n\n  .countdown-title {\n    font-size: 1.4rem;\n    margin-bottom: 15px;\n  }\n\n  .countdown-timer {\n    display: flex;\n    justify-content: center;\n    gap: 30px;\n    margin-bottom: 10px;\n  }\n\n  .countdown-block {\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n  }\n\n  .countdown-number {\n    font-size: 2.8rem;\n    font-weight: 700;\n  }\n\n  .countdown-label {\n    font-size: 1rem;\n    margin-top: 4px;\n  }\n\n  .highlight-red {\n    color: #e63946;\n    font-weight: bold;\n  }\n\n  .stock-message {\n    font-size: 1.1rem;\n    margin-top: 10px;\n  }\n\n  .proof-message {\n    font-size: 0.95rem;\n    color: #555;\n    margin-top: 5px;\n    opacity: 0.8;\n  }\n\n  .blinking {\n    animation: blink 1s infinite;\n  }\n\n  @keyframes blink {\n    0%, 100% { opacity: 1; }\n    50% { opacity: 0.2; }\n  }\n\n  @media screen and (max-width: 500px) {\n    .countdown-timer {\n      gap: 15px;\n    }\n    .countdown-title {\n      font-size: 1.2rem;\n    }\n    .countdown-number {\n      font-size: 2.2rem;\n    }\n  }\n</style>\n\n<script>\n  (function() {\n    var totalTime = 8 * 60;\n    var minutesElem = document.getElementById('minutes');\n    var secondsElem = document.getElementById('seconds');\n\n    function updateTimer() {\n      var minutes = Math.floor(totalTime / 60);\n      var seconds = totalTime % 60;\n\n      minutesElem.textContent = String(minutes).padStart(2, '0');\n      secondsElem.textContent = String(seconds).padStart(2, '0');\n\n      if (totalTime > 0) {\n        totalTime--;\n      } else {\n        clearInterval(timerInterval);\n        document.querySelector('.countdown-title').textContent = '⏰ Offre expirée !';\n        document.querySelector('.stock-message').style.display = 'none';\n      }\n    }\n\n    var timerInterval = setInterval(updateTimer, 1000);\n    updateTimer();\n  })();\n</script>"
           }
         },
         "buy_buttons_K4afzd": {
@@ -419,11 +419,11 @@
         "price_nnaahk",
         "liquid_tBHdPU",
         "liquid_KPaYCN",
-        "liquid_nJGQfr",
         "liquid_fhUycc",
         "pumper_bundles_quantity_breaks_app_block_bundle_Ai6cXC",
         "separator_CbVBPh",
         "pumper_bundles_quantity_breaks_app_block_qb_ff7KTA",
+        "liquid_nJGQfr",
         "buy_buttons_K4afzd",
         "image_nyMMrU",
         "pickup_availability_aFGtVF",
