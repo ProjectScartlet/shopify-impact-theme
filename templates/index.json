@@ -279,6 +279,12 @@
             "liquid": "<title>Trustpilot Stars</title>\n</head>\n<body>\n    <a target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: none; display: flex; align-items: center;\">\n        <span style=\"font-size: 15px; font-weight: bold; color: #000;\">4.7</span>\n        <img src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/trustpilot_5_stars.svg?v=1721578152\" alt=\"Trustpilot 5 stars\" style=\"margin: 0 8px; width: 80px; height: auto;\">\n        <span style=\"font-size: 15px; color: #555;\">(428 notes)</span>\n    </a>"
           }
         },
+        "liquid_tBHdPU": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!-- Message promo eBook offert -->\n<div class=\"promo-ebook\">\n  <h3>🛍️ À l'achat d’un blender</h3>\n  <p>Recevez <strong>gratuitement</strong> notre eBook exclusif de <strong>recettes de smoothies</strong> !</p>\n</div>\n\n<style>\n  .promo-ebook {\n    background-color: #fef3f0;\n    border: 2px dashed #e63946;\n    color: #e63946;\n    text-align: center;\n    padding: 20px;\n    border-radius: 20px;\n    margin: 30px auto;\n    max-width: 500px;\n    font-family: 'Helvetica Neue', sans-serif;\n    box-shadow: 0 4px 10px rgba(0,0,0,0.05);\n  }\n  .promo-ebook h3 {\n    font-size: 1.4rem;\n    margin-bottom: 10px;\n  }\n  .promo-ebook p {\n    font-size: 1.1rem;\n    margin: 0;\n  }\n</style>"
+          }
+        },
         "price_nnaahk": {
           "type": "price",
           "settings": {
@@ -307,14 +313,6 @@
           "settings": {
             "selected_product": "{{section.settings.product}}",
             "using_page_builder": false
-          }
-        },
-        "image_M6nEaJ": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Recevez_un_ebook_smoothies_pour_tout_achat_de_blender_-Photoroom.png",
-            "alignment": "center",
-            "max_width": 270
           }
         },
         "buy_buttons_K4afzd": {
@@ -354,12 +352,12 @@
         "badges_jGh9pP",
         "text_jQAgcC",
         "liquid_gtCrh8",
+        "liquid_tBHdPU",
         "price_nnaahk",
         "liquid_nJGQfr",
         "pumper_bundles_quantity_breaks_app_block_bundle_Ai6cXC",
         "separator_CbVBPh",
         "pumper_bundles_quantity_breaks_app_block_qb_ff7KTA",
-        "image_M6nEaJ",
         "buy_buttons_K4afzd",
         "image_nyMMrU",
         "pickup_availability_aFGtVF",
