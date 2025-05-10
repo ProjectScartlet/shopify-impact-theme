@@ -337,6 +337,12 @@
             "show_taxes_notice": false
           }
         },
+        "liquid_HzAGUj": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<p class=\"livraison-gratuite\">📦 Livraison offerte</p>\n\n<style>\n  .livraison-gratuite {\n    color: #4A90E2;\n    font-weight: 600;\n    font-size: 1rem;\n    margin-top: 5px;\n    font-family: 'Helvetica Neue', sans-serif;\n  }\n</style>"
+          }
+        },
         "liquid_tBHdPU": {
           "type": "liquid",
           "settings": {
@@ -417,6 +423,7 @@
         "text_jQAgcC",
         "liquid_gtCrh8",
         "price_nnaahk",
+        "liquid_HzAGUj",
         "liquid_tBHdPU",
         "liquid_KPaYCN",
         "liquid_fhUycc",
