@@ -254,6 +254,58 @@
         "text_color": ""
       }
     },
+    "press_LTniaH": {
+      "type": "press",
+      "blocks": {
+        "quote_yNwbPr": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 80,
+            "author": "Camille B.",
+            "content": "J’emporte mon blender portable JuicyBlend tous les jours au travail. Il est compact, puissant et super facile à nettoyer. Mes smoothies sont toujours parfaits !",
+            "show_rating": true,
+            "rating": 5
+          }
+        },
+        "quote_9rPdQ3": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Rayan M.",
+            "content": "Je voyage beaucoup et manger sainement était compliqué. Depuis que j’ai ce blender portable, je peux faire mes smoothies partout. C’est devenu mon indispensable ! ",
+            "show_rating": true,
+            "rating": 5
+          }
+        },
+        "quote_V8d3yQ": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Sofia L.",
+            "content": " Livraison rapide, produit de qualité, et en plus j’ai reçu un eBook de recettes gratuit. Je recommande à 100 % ! ",
+            "show_rating": true,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "quote_yNwbPr",
+        "quote_9rPdQ3",
+        "quote_V8d3yQ"
+      ],
+      "name": "Press",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
     "featured_product_rckLBw": {
       "type": "featured-product",
       "blocks": {
@@ -664,6 +716,7 @@
     "rich_text_zhWCiD",
     "video_gRaT87",
     "multi_column_zM4ftk",
+    "press_LTniaH",
     "featured_product_rckLBw",
     "tabs_ajVjaF",
     "faq_XztqTm",
