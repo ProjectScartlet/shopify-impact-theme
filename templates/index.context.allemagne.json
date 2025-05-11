@@ -12,5 +12,12 @@
   "context": {
     "market": "allemagne"
   },
-  "sections": {}
+  "sections": {
+    "featured_product_rckLBw": {
+      "settings": {
+        "product": "portable-electric-juicer-blender-usb-mini-fruit-mixers-juicers-fruit-extractors-food-milkshake-multifunction-juice-maker-machine"
+      },
+      "blocks": {}
+    }
+  }
 }
