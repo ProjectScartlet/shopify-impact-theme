@@ -12,5 +12,28 @@
   "context": {
     "market": "belgique"
   },
-  "sections": {}
+  "sections": {
+    "featured_product_rckLBw": {
+      "settings": {},
+      "blocks": {},
+      "block_order": [
+        "title_NfKR7W",
+        "badges_jGh9pP",
+        "text_jQAgcC",
+        "liquid_gtCrh8",
+        "price_nnaahk",
+        "liquid_HzAGUj",
+        "liquid_tBHdPU",
+        "liquid_KPaYCN",
+        "pumper_bundles_quantity_breaks_app_block_bundle_Ai6cXC",
+        "separator_CbVBPh",
+        "pumper_bundles_quantity_breaks_app_block_qb_ff7KTA",
+        "liquid_nJGQfr",
+        "buy_buttons_K4afzd",
+        "image_nyMMrU",
+        "pickup_availability_aFGtVF",
+        "image_khJKkL"
+      ]
+    }
+  }
 }
