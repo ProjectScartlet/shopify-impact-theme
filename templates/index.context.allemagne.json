@@ -29,6 +29,13 @@
           }
         }
       }
+    },
+    "image-with-text-overlay": {
+      "settings": {
+        "mobile_image": "shopify://shop_images/Fruhstuck_to_go.png",
+        "image": "shopify://shop_images/Fruhstuck_to_go.png"
+      },
+      "blocks": {}
     }
   }
 }
