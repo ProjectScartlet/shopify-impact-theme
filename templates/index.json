@@ -355,12 +355,6 @@
             "liquid": ""
           }
         },
-        "liquid_fhUycc": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<!-- Popup preuve sociale avec villes aléatoires -->\n<div id=\"popup-box\" class=\"popup-hidden\">\n  <p id=\"popup-text\">🎉 Quelqu’un vient d’acheter un blender à Paris !</p>\n</div>\n\n<style>\n  #popup-box {\n    position: fixed;\n    bottom: 20px;\n    left: 20px;\n    background-color: #4A90E2;\n    color: white;\n    padding: 15px 20px;\n    border-radius: 15px;\n    font-size: 0.95rem;\n    box-shadow: 0 4px 10px rgba(0,0,0,0.2);\n    z-index: 9999;\n    opacity: 0;\n    transition: opacity 0.5s ease;\n  }\n\n  #popup-box.popup-visible {\n    opacity: 1;\n  }\n</style>\n\n<script>\n  const villes = [\n    \"Paris\", \"Marseille\", \"Lyon\", \"Toulouse\", \"Nice\", \"Nantes\", \"Strasbourg\",\n    \"Lille\", \"Rennes\", \"Montpellier\", \"Reims\", \"Rouen\", \"Dijon\", \"Bordeaux\",\n    \"Clermont-Ferrand\", \"Grenoble\", \"Le Havre\", \"Aix-en-Provence\", \"Tours\"\n  ];\n\n  function afficherPopup() {\n    const ville = villes[Math.floor(Math.random() * villes.length)];\n    document.getElementById('popup-text').textContent =\n      \"🎉 Quelqu’un vient d’acheter un blender à \" + ville + \" !\";\n\n    const popup = document.getElementById('popup-box');\n    popup.classList.add('popup-visible');\n\n    setTimeout(() => {\n      popup.classList.remove('popup-visible');\n    }, 6000);\n  }\n\n  // Affiche la première fois après 5 secondes\n  setTimeout(() => {\n    afficherPopup();\n\n    // Ensuite toutes les 30 secondes\n    setInterval(afficherPopup, 30000);\n  }, 5000);\n</script>"
-          }
-        },
         "pumper_bundles_quantity_breaks_app_block_bundle_Ai6cXC": {
           "type": "shopify://apps/pumper-bundles-quantity-breaks/blocks/app-block-bundle/0856870d-2aca-4b1e-a662-cf1797f61270",
           "settings": {
@@ -426,7 +420,6 @@
         "liquid_HzAGUj",
         "liquid_tBHdPU",
         "liquid_KPaYCN",
-        "liquid_fhUycc",
         "pumper_bundles_quantity_breaks_app_block_bundle_Ai6cXC",
         "separator_CbVBPh",
         "pumper_bundles_quantity_breaks_app_block_qb_ff7KTA",
