@@ -146,6 +146,58 @@
         "overlay_opacity": 0
       }
     },
+    "impact_text_hEJjAJ": {
+      "type": "impact-text",
+      "blocks": {
+        "item_znWV6t": {
+          "type": "item",
+          "settings": {
+            "title": "Avant/Après",
+            "subheading": "",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_znWV6t"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 0.7,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "#efadb3",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "image_with_text_overlay_rCb8tK": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Image_16.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "impact_text_6GzRP3": {
       "type": "impact-text",
       "blocks": {
@@ -762,6 +814,8 @@
     "logo_list_rCQCKJ",
     "impact-text",
     "image-with-text-overlay",
+    "impact_text_hEJjAJ",
+    "image_with_text_overlay_rCb8tK",
     "impact_text_6GzRP3",
     "images_with_text_scrolling_n4qMy9",
     "image_with_text_overlay_gQyCqa",
