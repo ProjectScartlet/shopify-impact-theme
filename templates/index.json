@@ -119,7 +119,7 @@
         "text_alignment": "center",
         "impact_text_style": "fill",
         "text_divider": "none",
-        "impact_text_size_ratio": 1,
+        "impact_text_size_ratio": 1.4,
         "background": "",
         "background_gradient": "",
         "heading_text_color": "",
@@ -144,6 +144,42 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
+      }
+    },
+    "impact_text_6GzRP3": {
+      "type": "impact-text",
+      "blocks": {
+        "item_YLYqEx": {
+          "type": "item",
+          "settings": {
+            "title": "Composition",
+            "subheading": "",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 1.3
+          }
+        }
+      },
+      "block_order": [
+        "item_YLYqEx"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 0.7,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
       }
     },
     "images_with_text_scrolling_n4qMy9": {
@@ -674,6 +710,7 @@
     "logo_list_rCQCKJ",
     "impact-text",
     "image-with-text-overlay",
+    "impact_text_6GzRP3",
     "images_with_text_scrolling_n4qMy9",
     "multi_column_zM4ftk",
     "featured_product_rckLBw",
