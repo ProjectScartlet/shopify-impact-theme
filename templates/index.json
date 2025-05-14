@@ -146,6 +146,59 @@
         "overlay_opacity": 0
       }
     },
+    "images_with_text_scrolling_n4qMy9": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_6tX73A": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Image_12.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading 1",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "item_96Rx7Q": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Image_13.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading 2",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "item_eLf46W": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Image_14.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Sérum Anti-Âge aux Peptides de Collagène",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_6tX73A",
+        "item_96Rx7Q",
+        "item_eLf46W"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "multi_column_zM4ftk": {
       "type": "multi-column",
       "blocks": {
@@ -621,6 +674,7 @@
     "logo_list_rCQCKJ",
     "impact-text",
     "image-with-text-overlay",
+    "images_with_text_scrolling_n4qMy9",
     "multi_column_zM4ftk",
     "featured_product_rckLBw",
     "tabs_ajVjaF",
