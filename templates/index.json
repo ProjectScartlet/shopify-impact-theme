@@ -17,18 +17,10 @@
           "settings": {
             "text": ""
           }
-        },
-        "heading_atrM7F": {
-          "type": "heading",
-          "settings": {
-            "text": "Le pouvoir de mixer, partout, sans limites.",
-            "heading_tag": "h1"
-          }
         }
       },
       "block_order": [
-        "subheading_ExnPpN",
-        "heading_atrM7F"
+        "subheading_ExnPpN"
       ],
       "settings": {
         "full_width": true,
@@ -50,32 +42,32 @@
         "logo_qwq4YJ": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/usine_digitale-450x450.png",
-            "logo_width": 120,
+            "logo": "shopify://shop_images/Image_1-Photoroom.png",
+            "logo_width": 300,
             "link": ""
           }
         },
         "logo_hKrknd": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Futura-logo.jpg",
-            "logo_width": 120,
+            "logo": "shopify://shop_images/Image-Photoroom.png",
+            "logo_width": 300,
             "link": ""
           }
         },
         "logo_MDqQE6": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/unnamed_1.png",
-            "logo_width": 120,
+            "logo": "shopify://shop_images/Image_2-Photoroom.png",
+            "logo_width": 160,
             "link": ""
           }
         },
         "logo_kBNpXV": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Logo01netMagazine.jpg",
-            "logo_width": 120,
+            "logo": "shopify://shop_images/Image_3-Photoroom.png",
+            "logo_width": 300,
             "link": ""
           }
         }
