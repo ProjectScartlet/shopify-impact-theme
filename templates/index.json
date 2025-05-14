@@ -122,9 +122,9 @@
         "impact_text_size_ratio": 1.4,
         "background": "",
         "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "linear-gradient(180deg, rgba(26, 26, 26, 0.2), rgba(26, 26, 26, 0) 100%)",
-        "text_color": "",
+        "heading_text_color": "#efadb3",
+        "heading_gradient": "linear-gradient(180deg, rgba(239, 173, 179, 1), rgba(26, 26, 26, 0) 100%)",
+        "text_color": "#efadb3",
         "button_background": "",
         "button_text_color": ""
       }
@@ -175,7 +175,7 @@
         "impact_text_size_ratio": 0.7,
         "background": "",
         "background_gradient": "",
-        "heading_text_color": "",
+        "heading_text_color": "#efadb3",
         "heading_gradient": "",
         "text_color": "",
         "button_background": "",
