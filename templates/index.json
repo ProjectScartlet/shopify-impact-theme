@@ -251,6 +251,42 @@
         "overlay_opacity": 0
       }
     },
+    "impact_text_6wficM": {
+      "type": "impact-text",
+      "blocks": {
+        "item_dLQLMB": {
+          "type": "item",
+          "settings": {
+            "title": "Nos clients en parlent le mieux",
+            "subheading": "",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_dLQLMB"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 0.6,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "#efadb3",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "multi_column_zM4ftk": {
       "type": "multi-column",
       "blocks": {
@@ -305,11 +341,11 @@
         "gap": "medium",
         "text_alignment": "center",
         "subheading": "",
-        "title": "Nos clients en parlent le mieux",
+        "title": "",
         "content": "",
         "background": "",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "#1a1a1a"
       }
     },
     "featured_product_rckLBw": {
@@ -729,6 +765,7 @@
     "impact_text_6GzRP3",
     "images_with_text_scrolling_n4qMy9",
     "image_with_text_overlay_gQyCqa",
+    "impact_text_6wficM",
     "multi_column_zM4ftk",
     "featured_product_rckLBw",
     "tabs_ajVjaF",
