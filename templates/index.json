@@ -152,11 +152,11 @@
         "item_Mpmf3L": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ezgif-3ac5239e6560ba.gif",
+            "image": "shopify://shop_images/Design_sans_titre-8.jpg",
             "column_size": "3",
             "title": "Amandine D.",
             "heading_tag": "h4",
-            "content": "<p>J'adore le JuicyBlend ! Pratique, rapide et éco-responsable, il allie performance et respect de la planète. Parfait pour un mode de vie durable !</p>",
+            "content": "<p>J’utilise cette crème depuis 1 mois et je suis vraiment impressionnée. Dès la première semaine, ma peau était plus douce et plus lumineuse. Aujourd’hui, mes rides sont visiblement estompées, surtout au niveau du front et des yeux. Mon teint est plus uniforme et ma peau paraît plus jeune. Une vraie révélation, je recommande les yeux fermés !</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -205,58 +205,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "press_LTniaH": {
-      "type": "press",
-      "blocks": {
-        "quote_yNwbPr": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 80,
-            "author": "Camille B.",
-            "content": "J’emporte mon blender portable JuicyBlend tous les jours au travail. Il est compact, puissant et super facile à nettoyer. Mes smoothies sont toujours parfaits !",
-            "show_rating": true,
-            "rating": 5
-          }
-        },
-        "quote_9rPdQ3": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "Rayan M.",
-            "content": "Je voyage beaucoup et manger sainement était compliqué. Depuis que j’ai ce blender portable, je peux faire mes smoothies partout. C’est devenu mon indispensable ! ",
-            "show_rating": true,
-            "rating": 5
-          }
-        },
-        "quote_V8d3yQ": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "Sofia L.",
-            "content": " Livraison rapide, produit de qualité, et en plus j’ai reçu un eBook de recettes gratuit. Je recommande à 100 % ! ",
-            "show_rating": true,
-            "rating": 5
-          }
-        }
-      },
-      "block_order": [
-        "quote_yNwbPr",
-        "quote_9rPdQ3",
-        "quote_V8d3yQ"
-      ],
-      "name": "Press",
-      "settings": {
-        "full_width": true,
-        "content_size": "medium",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
       }
     },
     "featured_product_rckLBw": {
@@ -674,7 +622,6 @@
     "impact-text",
     "image-with-text-overlay",
     "multi_column_zM4ftk",
-    "press_LTniaH",
     "featured_product_rckLBw",
     "tabs_ajVjaF",
     "faq_XztqTm",
