@@ -27,13 +27,13 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/gifffff_final.gif",
-        "mobile_image": "shopify://shop_images/ersrsertsxdfdsfgxdxfg.gif",
+        "image": "shopify://shop_images/Redonnez_le_temps_a_votre_peau-2.png",
+        "mobile_image": "shopify://shop_images/Redonnez_le_temps_a_votre_peau.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 19
+        "overlay_opacity": 0
       }
     },
     "logo_list_rCQCKJ": {
@@ -141,45 +141,6 @@
         "mobile_image": "shopify://shop_images/Add_a_subheading_1300_x_1000_px.png",
         "mobile_text_position": "place-self-start-center text-center",
         "desktop_text_position": "sm:place-self-start-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "rich_text_zhWCiD": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_UJbFUf": {
-          "type": "heading",
-          "settings": {
-            "text": "Démonstration :",
-            "heading_tag": "h2",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_UJbFUf"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "video_gRaT87": {
-      "type": "video",
-      "settings": {
-        "full_width": false,
-        "allow_transparent_header": false,
-        "autoplay": true,
-        "video_size": "auto",
-        "video": "shopify://files/videos/The Fresh Juice™ Bottle Blender is Here!.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
@@ -712,8 +673,6 @@
     "logo_list_rCQCKJ",
     "impact-text",
     "image-with-text-overlay",
-    "rich_text_zhWCiD",
-    "video_gRaT87",
     "multi_column_zM4ftk",
     "press_LTniaH",
     "featured_product_rckLBw",
