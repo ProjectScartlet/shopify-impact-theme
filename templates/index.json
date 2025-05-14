@@ -28,7 +28,7 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/Redonnez_le_temps_a_votre_peau-2.png",
-        "mobile_image": "shopify://shop_images/Redonnez_le_temps_a_votre_peau.jpg",
+        "mobile_image": "shopify://shop_images/Redonnez_le_temps_a_votre_peau..png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
