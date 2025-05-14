@@ -100,8 +100,8 @@
         "1664424181b38582d5-0": {
           "type": "item",
           "settings": {
-            "title": "",
-            "subheading": "Pourquoi choisir Novaé ?",
+            "title": "Pourquoi choisir Novaé ?",
+            "subheading": "",
             "content": "",
             "button_text": "",
             "button_url": "",
@@ -119,11 +119,11 @@
         "text_alignment": "center",
         "impact_text_style": "fill",
         "text_divider": "none",
-        "impact_text_size_ratio": 1.4,
+        "impact_text_size_ratio": 0.6,
         "background": "",
         "background_gradient": "",
         "heading_text_color": "#efadb3",
-        "heading_gradient": "linear-gradient(180deg, rgba(239, 173, 179, 1), rgba(26, 26, 26, 0) 100%)",
+        "heading_gradient": "radial-gradient(rgba(239, 173, 179, 1) 100%, rgba(26, 26, 26, 0) 100%)",
         "text_color": "#efadb3",
         "button_background": "",
         "button_text_color": ""
