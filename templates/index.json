@@ -340,7 +340,7 @@
           "type": "shopify://apps/pumper-bundles-quantity-breaks/blocks/app-block-qb/0856870d-2aca-4b1e-a662-cf1797f61270",
           "settings": {
             "selected_product": "{{section.settings.product}}",
-            "using_page_builder": false
+            "using_page_builder": true
           }
         },
         "buy_buttons_K4afzd": {
