@@ -198,58 +198,6 @@
         "overlay_opacity": 0
       }
     },
-    "impact_text_6GzRP3": {
-      "type": "impact-text",
-      "blocks": {
-        "item_YLYqEx": {
-          "type": "item",
-          "settings": {
-            "title": "Composition",
-            "subheading": "",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 1.3
-          }
-        }
-      },
-      "block_order": [
-        "item_YLYqEx"
-      ],
-      "name": "Impact text",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 0.7,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "#efadb3",
-        "heading_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
-    "image_with_text_overlay_gQyCqa": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Nettoyez_votre_visage.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "impact_text_6wficM": {
       "type": "impact-text",
       "blocks": {
@@ -453,7 +401,7 @@
         "image_khJKkL": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Paiement.png",
+            "image": "shopify://shop_images/Design_sans_titre-12.jpg",
             "alignment": "center",
             "max_width": 500
           }
@@ -494,6 +442,111 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "image_with_text_overlay_gQyCqa": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Nettoyez_votre_visage.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "impact_text_6GzRP3": {
+      "type": "impact-text",
+      "blocks": {
+        "item_YLYqEx": {
+          "type": "item",
+          "settings": {
+            "title": "Composition",
+            "subheading": "",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 1.3
+          }
+        }
+      },
+      "block_order": [
+        "item_YLYqEx"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 0.7,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "#efadb3",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "images_with_text_scrolling_n4qMy9": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_6tX73A": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Image_12.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Peptides de Collagène",
+            "content": "<p>Enrichie en <strong>peptides de collagène</strong>, cette crème nourrit et raffermit la peau, réduisant visiblement les rides pour un teint éclatant et une peau plus ferme dès 7 jours.</p>"
+          }
+        },
+        "item_96Rx7Q": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Image_13.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Élastine",
+            "content": "<p>Enrichie en <strong>élastine</strong>, un ingrédient naturel, cette crème nourrit et raffermit la peau, améliore son élasticité, et réduit visiblement les rides pour un teint plus lisse et un éclat naturel dès 7 jours.</p>"
+          }
+        },
+        "item_eLf46W": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Image_14.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Acide hyaluronique",
+            "content": "<p>Hydrate en profondeur, favorise la réparation et la régénération de la peau. Repulpe la peau et réduit l’apparence des ridules et des rides.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_6tX73A",
+        "item_96Rx7Q",
+        "item_eLf46W"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": false,
+        "desktop_image_effect": "reveal",
+        "image_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
       }
     },
     "tabs_ajVjaF": {
@@ -544,59 +597,6 @@
         "subheading": "",
         "title": "",
         "first_tab_open": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
-    "images_with_text_scrolling_n4qMy9": {
-      "type": "images-with-text-scrolling",
-      "blocks": {
-        "item_6tX73A": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Image_12.jpg",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Peptides de Collagène",
-            "content": "<p>Enrichie en <strong>peptides de collagène</strong>, cette crème nourrit et raffermit la peau, réduisant visiblement les rides pour un teint éclatant et une peau plus ferme dès 7 jours.</p>"
-          }
-        },
-        "item_96Rx7Q": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Image_13.jpg",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Élastine",
-            "content": "<p>Enrichie en <strong>élastine</strong>, un ingrédient naturel, cette crème nourrit et raffermit la peau, améliore son élasticité, et réduit visiblement les rides pour un teint plus lisse et un éclat naturel dès 7 jours.</p>"
-          }
-        },
-        "item_eLf46W": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Image_14.jpg",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Acide hyaluronique",
-            "content": "<p>Hydrate en profondeur, favorise la réparation et la régénération de la peau. Repulpe la peau et réduit l’apparence des ridules et des rides.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_6tX73A",
-        "item_96Rx7Q",
-        "item_eLf46W"
-      ],
-      "name": "Images and text scrolling",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "show_counter": false,
-        "desktop_image_effect": "reveal",
-        "image_position": "start",
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -827,10 +827,10 @@
     "impact_text_6wficM",
     "multi_column_zM4ftk",
     "featured_product_rckLBw",
-    "tabs_ajVjaF",
     "image_with_text_overlay_gQyCqa",
     "impact_text_6GzRP3",
     "images_with_text_scrolling_n4qMy9",
+    "tabs_ajVjaF",
     "faq_XztqTm",
     "1744656476b64aafa8",
     "contact_gRweEP",
