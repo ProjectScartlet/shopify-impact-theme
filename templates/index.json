@@ -234,59 +234,6 @@
         "button_text_color": ""
       }
     },
-    "images_with_text_scrolling_n4qMy9": {
-      "type": "images-with-text-scrolling",
-      "blocks": {
-        "item_6tX73A": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Image_12.jpg",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Peptides de Collagène",
-            "content": "<p>Enrichie en <strong>peptides de collagène</strong>, cette crème nourrit et raffermit la peau, réduisant visiblement les rides pour un teint éclatant et une peau plus ferme dès 7 jours.</p>"
-          }
-        },
-        "item_96Rx7Q": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Image_13.jpg",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Élastine",
-            "content": "<p>Enrichie en <strong>élastine</strong>, un ingrédient naturel, cette crème nourrit et raffermit la peau, améliore son élasticité, et réduit visiblement les rides pour un teint plus lisse et un éclat naturel dès 7 jours.</p>"
-          }
-        },
-        "item_eLf46W": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Image_14.jpg",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Acide hyaluronique",
-            "content": "<p>Hydrate en profondeur, favorise la réparation et la régénération de la peau. Repulpe la peau et réduit l’apparence des ridules et des rides.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_6tX73A",
-        "item_96Rx7Q",
-        "item_eLf46W"
-      ],
-      "name": "Images and text scrolling",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "show_counter": false,
-        "desktop_image_effect": "reveal",
-        "image_position": "start",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "image_with_text_overlay_gQyCqa": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -604,6 +551,59 @@
         "heading_gradient": ""
       }
     },
+    "images_with_text_scrolling_n4qMy9": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_6tX73A": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Image_12.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Peptides de Collagène",
+            "content": "<p>Enrichie en <strong>peptides de collagène</strong>, cette crème nourrit et raffermit la peau, réduisant visiblement les rides pour un teint éclatant et une peau plus ferme dès 7 jours.</p>"
+          }
+        },
+        "item_96Rx7Q": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Image_13.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Élastine",
+            "content": "<p>Enrichie en <strong>élastine</strong>, un ingrédient naturel, cette crème nourrit et raffermit la peau, améliore son élasticité, et réduit visiblement les rides pour un teint plus lisse et un éclat naturel dès 7 jours.</p>"
+          }
+        },
+        "item_eLf46W": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Image_14.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Acide hyaluronique",
+            "content": "<p>Hydrate en profondeur, favorise la réparation et la régénération de la peau. Repulpe la peau et réduit l’apparence des ridules et des rides.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_6tX73A",
+        "item_96Rx7Q",
+        "item_eLf46W"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": false,
+        "desktop_image_effect": "reveal",
+        "image_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "faq_XztqTm": {
       "type": "faq",
       "blocks": {
@@ -824,13 +824,13 @@
     "image-with-text-overlay",
     "impact_text_hEJjAJ",
     "image_with_text_overlay_rCb8tK",
-    "impact_text_6GzRP3",
-    "images_with_text_scrolling_n4qMy9",
-    "image_with_text_overlay_gQyCqa",
     "impact_text_6wficM",
     "multi_column_zM4ftk",
     "featured_product_rckLBw",
     "tabs_ajVjaF",
+    "image_with_text_overlay_gQyCqa",
+    "impact_text_6GzRP3",
+    "images_with_text_scrolling_n4qMy9",
     "faq_XztqTm",
     "1744656476b64aafa8",
     "contact_gRweEP",
