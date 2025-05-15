@@ -336,8 +336,8 @@
           "type": "separator",
           "settings": {}
         },
-        "pumper_bundles_quantity_breaks_app_block_bundle_hP9rym": {
-          "type": "shopify://apps/pumper-bundles-quantity-breaks/blocks/app-block-bundle/0856870d-2aca-4b1e-a662-cf1797f61270",
+        "pumper_bundles_quantity_breaks_app_block_qb_ERWq9R": {
+          "type": "shopify://apps/pumper-bundles-quantity-breaks/blocks/app-block-qb/0856870d-2aca-4b1e-a662-cf1797f61270",
           "settings": {
             "selected_product": "{{section.settings.product}}",
             "using_page_builder": false
@@ -383,7 +383,7 @@
         "price_nnaahk",
         "liquid_HzAGUj",
         "separator_CbVBPh",
-        "pumper_bundles_quantity_breaks_app_block_bundle_hP9rym",
+        "pumper_bundles_quantity_breaks_app_block_qb_ERWq9R",
         "buy_buttons_K4afzd",
         "image_nyMMrU",
         "pickup_availability_aFGtVF",
