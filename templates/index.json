@@ -573,36 +573,36 @@
         "item_ynXqYy": {
           "type": "item",
           "settings": {
-            "title": "Puis-je l’utiliser pour des recettes autres que des smoothies ?",
-            "content": "<p>Absolument ! Bien que ce blender soit idéal pour préparer des smoothies, vous pouvez aussi l'utiliser pour réaliser des sauces, des soupes froides, ou même des shakes protéinés. Il est polyvalent et vous permettra de varier vos recettes.</p>"
+            "title": "À qui s’adresse la crème Novaé ?",
+            "content": "<p>La crème Novaé est conçue pour tous les types de peau, y compris les peaux sensibles. Elle convient aussi bien aux femmes qu’aux hommes à la recherche d’un soin hydratant, anti-âge et unifiant.</p>"
           }
         },
         "item_jeN3QM": {
           "type": "item",
           "settings": {
-            "title": "Est-il puissant pour mélanger des fruits congelés ?",
-            "content": "<p>Oui, ce blender est conçu pour mélanger facilement des fruits congelés, de la glace et d'autres ingrédients solides. Sa puissance garantit une texture lisse, parfaite pour des smoothies ou autres boissons glacées.</p>"
+            "title": "Quels sont les principaux bienfaits de la crème Novaé ?",
+            "content": "<p>Elle hydrate en profondeur, aide à atténuer les taches pigmentaires, contrôle l’excès de sébum, lisse les rides et raffermit la peau.</p>"
           }
         },
         "item_ENRFFq": {
           "type": "item",
           "settings": {
-            "title": "Est-ce qu’il est parfait pour une utilisation quotidienne ?",
-            "content": "<p>Biensur ! Ce blender est non seulement pratique mais aussi durable, ce qui le rend parfait pour une utilisation quotidienne. Que ce soit pour un smoothie rapide le matin ou un shake après l’entraînement, il répond à tous vos besoins de manière efficace et rapide.</p>"
+            "title": "À quelle fréquence dois-je utiliser la crème Novaé ?",
+            "content": "<p>Pour des résultats optimaux, appliquez-la matin et soir sur une peau propre et sèche.</p>"
           }
         },
         "item_CATDD8": {
           "type": "item",
           "settings": {
-            "title": "Puis-je l'utiliser pour faire des purées pour bébé ?",
-            "content": "<p>Oui, ce blender est idéal pour préparer des purées maison pour bébé. Grâce à sa capacité à mélanger finement les fruits et légumes, il permet de créer des purées lisses et douces, parfaites pour les tout-petits. C'est une option saine et pratique.</p>"
+            "title": "Combien de temps faut-il pour voir les premiers résultats ?",
+            "content": "<p>Les premiers effets (peau plus douce, hydratée et lumineuse) peuvent apparaître après quelques jours. Les résultats visibles sur les taches ou les rides peuvent nécessiter 1 à 4 semaines d’utilisation régulière.</p>"
           }
         },
         "item_y7cGH9": {
           "type": "item",
           "settings": {
-            "title": "Le blender est-il sécurisé à utiliser ?",
-            "content": "<p>Tout à fait, ce blender portable est équipé de plusieurs fonctionnalités de sécurité, comme un système de verrouillage qui empêche toute activation accidentelle. Vous pouvez l'utiliser en toute confiance, même en déplacement.</p>"
+            "title": "La crème contient-elle des ingrédients nocifs ?",
+            "content": "<p>Non. La formulation est à base d’extraits naturels de plantes et <strong>ne contient aucun ingrédient à risque élevé</strong>, ni substances chimiques agressives.</p>"
           }
         }
       },
