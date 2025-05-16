@@ -604,6 +604,13 @@
             "title": "La crème contient-elle des ingrédients nocifs ?",
             "content": "<p>Non. La formulation est à base d’extraits naturels de plantes et <strong>ne contient aucun ingrédient à risque élevé</strong>, ni substances chimiques agressives.</p>"
           }
+        },
+        "item_RamKNF": {
+          "type": "item",
+          "settings": {
+            "title": "La crème Novaé est-elle testée sur les animaux ?",
+            "content": "<p>Non. Novaé est engagée pour le respect du bien-être animal. Aucun test n’est réalisé sur les animaux.</p>"
+          }
         }
       },
       "block_order": [
@@ -611,7 +618,8 @@
         "item_jeN3QM",
         "item_ENRFFq",
         "item_CATDD8",
-        "item_y7cGH9"
+        "item_y7cGH9",
+        "item_RamKNF"
       ],
       "settings": {
         "full_width": true,
