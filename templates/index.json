@@ -634,12 +634,12 @@
         "text_position": "center",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#000000",
         "heading_color": "",
         "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
+        "button_background": "#efadb3",
+        "button_text_color": "#efadb3",
+        "accordion_background": "#ffd9dd",
         "accordion_text_color": ""
       }
     },
