@@ -407,6 +407,61 @@
         "input_text_color": ""
       }
     },
+    "tabs_ajVjaF": {
+      "type": "tabs",
+      "blocks": {
+        "tab_kkTyQk": {
+          "type": "tab",
+          "settings": {
+            "title": "Caractéristiques",
+            "content": "<p>La crème visage <strong>Novaé</strong> est un soin complet conçu pour répondre aux besoins de toutes les peaux, même les plus sensibles. Formulée à base d’ingrédients naturels issus de plantes, elle hydrate intensément, lutte contre le vieillissement cutané et améliore visiblement l’éclat du teint.</p>",
+            "page": ""
+          }
+        },
+        "tab_ikftq8": {
+          "type": "tab",
+          "settings": {
+            "title": "Essayez-le 30 jours gratuitement",
+            "content": "<p>Essayez le JuicyBlend sans risque <strong>pendant 30 jours</strong>. Si vous n'êtes pas complètement satisfait de votre JuicyBlend vous avez la possibilité de le retourner et <strong>vous recevrez un remboursement intégral</strong>.</p>",
+            "page": ""
+          }
+        },
+        "tab_XXFCw8": {
+          "type": "tab",
+          "settings": {
+            "title": "Livraison gratuite à domicile",
+            "content": "<p>En raison du succès, les livraisons peuvent être légèrement retardées en France et en Belgique. La livraison à domicile est gratuite, avec un délai estimé entre 5 à 10 jours ouvrés.</p>",
+            "page": ""
+          }
+        },
+        "tab_zeaMEb": {
+          "type": "tab",
+          "settings": {
+            "title": "Service client 7J/7",
+            "content": "<p>Votre équipe est à disposition pour répondre à vos questions sept jours sur sept.</p><p>Vous pouvez nous contacter par email ou téléphone aux horaires suivants : du lundi au vendredi de 9h à 12h et de 14h à 18h, et le samedi et dimanche de 10h à 12h. N'hésitez pas à nous joindre.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_kkTyQk",
+        "tab_ikftq8",
+        "tab_XXFCw8",
+        "tab_zeaMEb"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "image_with_text_overlay_gQyCqa": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -505,61 +560,6 @@
         "show_counter": false,
         "desktop_image_effect": "reveal",
         "image_position": "start",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
-    "tabs_ajVjaF": {
-      "type": "tabs",
-      "blocks": {
-        "tab_kkTyQk": {
-          "type": "tab",
-          "settings": {
-            "title": "Caractéristiques",
-            "content": "<p>Ce blender portable est équipé d’une batterie de 1400 mAh, d’un système de chargement sans fil et d’un récipient de 350 ml. Il permet de mixer facilement des smoothies où que vous soyez. Il est résistant à l’eau, compact et simple à transporter.</p>",
-            "page": ""
-          }
-        },
-        "tab_ikftq8": {
-          "type": "tab",
-          "settings": {
-            "title": "Essayez-le 30 jours gratuitement",
-            "content": "<p>Essayez le JuicyBlend sans risque <strong>pendant 30 jours</strong>. Si vous n'êtes pas complètement satisfait de votre JuicyBlend vous avez la possibilité de le retourner et <strong>vous recevrez un remboursement intégral</strong>.</p>",
-            "page": ""
-          }
-        },
-        "tab_XXFCw8": {
-          "type": "tab",
-          "settings": {
-            "title": "Livraison gratuite à domicile",
-            "content": "<p>En raison du succès, les livraisons peuvent être légèrement retardées en France et en Belgique. La livraison à domicile est gratuite, avec un délai estimé entre 5 à 10 jours ouvrés.</p>",
-            "page": ""
-          }
-        },
-        "tab_zeaMEb": {
-          "type": "tab",
-          "settings": {
-            "title": "Service client 7J/7",
-            "content": "<p>Votre équipe est à disposition pour répondre à vos questions sept jours sur sept.</p><p>Vous pouvez nous contacter par email ou téléphone aux horaires suivants : du lundi au vendredi de 9h à 12h et de 14h à 18h, et le samedi et dimanche de 10h à 12h. N'hésitez pas à nous joindre.</p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "tab_kkTyQk",
-        "tab_ikftq8",
-        "tab_XXFCw8",
-        "tab_zeaMEb"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_size": "medium",
-        "subheading": "",
-        "title": "",
-        "first_tab_open": false,
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -790,10 +790,10 @@
     "impact_text_6wficM",
     "multi_column_zM4ftk",
     "featured_product_rckLBw",
+    "tabs_ajVjaF",
     "image_with_text_overlay_gQyCqa",
     "impact_text_6GzRP3",
     "images_with_text_scrolling_n4qMy9",
-    "tabs_ajVjaF",
     "faq_XztqTm",
     "1744656476b64aafa8",
     "contact_gRweEP",
