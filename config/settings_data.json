@@ -42,11 +42,6 @@
     "checkout_button_color": "#1a1a1a",
     "content_for_index": [],
     "blocks": {
-      "6544682535036668446": {
-        "type": "shopify://apps/pumper-bundles-quantity-breaks/blocks/app-embed/0856870d-2aca-4b1e-a662-cf1797f61270",
-        "disabled": false,
-        "settings": {}
-      },
       "11532412952436166569": {
         "type": "shopify://apps/loox-reviews/blocks/loox-inject/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
         "disabled": false,
@@ -55,6 +50,11 @@
       "5550728556201851227": {
         "type": "shopify://apps/glc-geolocation/blocks/selector/e347b539-0714-46e4-9e69-23a73992ae3a",
         "disabled": true,
+        "settings": {}
+      },
+      "1255249168098304288": {
+        "type": "shopify://apps/another-bundles/blocks/another/2c1fd58f-514b-48c1-ab75-0a3a1c3b8b2d",
+        "disabled": false,
         "settings": {}
       }
     }
