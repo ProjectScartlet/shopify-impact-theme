@@ -34,12 +34,6 @@
             "liquid": "<style>\n  /* Importation de la police Poppins */\n  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');\n\n  /* Style pour la bannière */\n  #notification-banner {\n    margin: 20px 0; /* Ajustement des marges : haut, bas */\n    text-align: left; /* Aligner le texte à gauche */\n  }\n\n  #notification-banner .red-div {\n    background-color: #F0F0F0;\n    border-radius: 8px;\n    padding: 8px; /* Ajustez si nécessaire */\n    display: inline-flex;\n    align-items: center;\n    font-family: 'Poppins', Arial, sans-serif; /* Police Poppins */\n    font-weight: bold; /* Texte en gras */\n  }\n\n  /* Style pour le ripple effect */\n  #notification-banner .ripple-circle {\n    margin-right: 8px;\n    height: 7px;\n    width: 7px;\n    display: inline-block;\n    position: relative;\n    border-radius: 50%;\n    background-color: red; /* Même couleur que le texte */\n  }\n\n  #notification-banner .ripple-circle:before,\n  #notification-banner .ripple-circle:after {\n    content: \"\";\n    display: block;\n    position: absolute;\n    top: 0;\n    left: 0;\n    right: 0;\n    bottom: 0;\n    border: 1px solid blue;\n    border-radius: 50%;\n    opacity: 1;\n  }\n\n  #notification-banner .ripple-circle:before {\n    animation: ripple 2s linear infinite;\n  }\n\n  #notification-banner .ripple-circle:after {\n    animation: ripple 2s linear 1s infinite;\n  }\n\n  @keyframes ripple {\n    0% {\n      transform: scale(1);\n      opacity: 1;\n    }\n\n    50% {\n      transform: scale(1.5);\n      opacity: 0.5;\n    }\n\n    100% {\n      transform: scale(2);\n      opacity: 0;\n    }\n  }\n\n  /* Style pour le texte */\n  #notification-banner .text {\n    display: inline-block;\n    color: red; /* Couleur du texte */\n    font-size: 14px; /* Ajustez la taille de police si nécessaire */\n  }\n\n  #notification-banner .text .bold {\n    font-weight: bold;\n  }\n</style>\n\n<!-- Bannière avec le texte modifié -->\n<div id=\"notification-banner\" style=\"margin:-13px 0px -10px 0px;\">\n  <div class=\"red-div\">\n    <div class=\"ripple-circle\"></div>\n    <div class=\"text\">En stock : 3 restants </div>\n  </div>\n</div>"
           }
         },
-        "price": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
         "rating": {
           "type": "rating",
           "settings": {
@@ -54,19 +48,16 @@
           "type": "separator",
           "settings": {}
         },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_mode": "block",
-            "color_mode": "color",
-            "size_chart_page": ""
-          }
-        },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {}
+        },
+        "pumper_bundles_quantity_breaks_app_block_qb_HxfHGX": {
+          "type": "shopify://apps/pumper-bundles-quantity-breaks/blocks/app-block-qb/0856870d-2aca-4b1e-a662-cf1797f61270",
+          "settings": {
+            "selected_product": "{{product}}",
+            "using_page_builder": false
+          }
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -85,12 +76,11 @@
         "title",
         "badges",
         "liquid_QNeyA4",
-        "price",
         "rating",
         "payment_terms",
         "separator",
-        "variant_picker",
         "quantity_selector",
+        "pumper_bundles_quantity_breaks_app_block_qb_HxfHGX",
         "buy_buttons"
       ],
       "settings": {
