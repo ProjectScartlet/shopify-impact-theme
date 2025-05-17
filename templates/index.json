@@ -311,19 +311,13 @@
         "text_jQAgcC": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>ÉLU #1 DES BLENDERS PORTABLES EN FRANCE </strong></p>"
+            "text": "<p><strong>Élue Crème Anti-Âge N°1 aux Actifs Naturels par Nos Clientes en France</strong></p>"
           }
         },
         "liquid_gtCrh8": {
           "type": "liquid",
           "settings": {
             "liquid": "<title>Trustpilot Stars</title>\n</head>\n<body>\n    <a target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: none; display: flex; align-items: center;\">\n        <span style=\"font-size: 15px; font-weight: bold; color: #000;\">4.7</span>\n        <img src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/trustpilot_5_stars.svg?v=1721578152\" alt=\"Trustpilot 5 stars\" style=\"margin: 0 8px; width: 80px; height: auto;\">\n        <span style=\"font-size: 15px; color: #555;\">(428 notes)</span>\n    </a>"
-          }
-        },
-        "price_nnaahk": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
           }
         },
         "liquid_HzAGUj": {
@@ -380,7 +374,6 @@
         "badges_jGh9pP",
         "text_jQAgcC",
         "liquid_gtCrh8",
-        "price_nnaahk",
         "liquid_HzAGUj",
         "separator_CbVBPh",
         "pumper_bundles_quantity_breaks_app_block_qb_ERWq9R",
