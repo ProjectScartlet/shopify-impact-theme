@@ -405,15 +405,15 @@
           "type": "tab",
           "settings": {
             "title": "Caractéristiques",
-            "content": "<p>La crème visage <strong>Novaé</strong> est un soin complet conçu pour répondre aux besoins de toutes les peaux, même les plus sensibles. Formulée à base d’ingrédients naturels issus de plantes, elle hydrate intensément, lutte contre le vieillissement cutané et améliore visiblement l’éclat du teint.</p>",
+            "content": "<p>La crème visage <strong>Novae</strong> est un soin complet conçu pour répondre aux besoins de toutes les peaux, même les plus sensibles. Formulée à base d’ingrédients naturels issus de plantes, elle hydrate intensément, lutte contre le vieillissement cutané et améliore visiblement l’éclat du teint.</p>",
             "page": ""
           }
         },
         "tab_ikftq8": {
           "type": "tab",
           "settings": {
-            "title": "Essayez la crème Novaé sans risque pendant 30 jours.",
-            "content": "<p>Si vous n’êtes pas entièrement satisfait(e) de votre crème Novaé, vous pouvez la retourner et recevoir un <strong>remboursement intégral</strong>, sans aucune condition.</p>",
+            "title": "Essayez la crème Novae sans risque pendant 30 jours.",
+            "content": "<p>Si vous n’êtes pas entièrement satisfait(e) de votre crème Novae, vous pouvez la retourner et recevoir un <strong>remboursement intégral</strong>, sans aucune condition.</p>",
             "page": ""
           }
         },
@@ -564,21 +564,21 @@
         "item_ynXqYy": {
           "type": "item",
           "settings": {
-            "title": "À qui s’adresse la crème Novaé ?",
-            "content": "<p>La crème Novaé est conçue pour tous les types de peau, y compris les peaux sensibles. Elle convient aussi bien aux femmes qu’aux hommes à la recherche d’un soin hydratant, anti-âge et unifiant.</p>"
+            "title": "À qui s’adresse la crème Novae ?",
+            "content": "<p>La crème Novae est conçue pour tous les types de peau, y compris les peaux sensibles. Elle convient aussi bien aux femmes qu’aux hommes à la recherche d’un soin hydratant, anti-âge et unifiant.</p>"
           }
         },
         "item_jeN3QM": {
           "type": "item",
           "settings": {
-            "title": "Quels sont les principaux bienfaits de la crème Novaé ?",
+            "title": "Quels sont les principaux bienfaits de la crème Novae ?",
             "content": "<p>Elle hydrate en profondeur, aide à atténuer les taches pigmentaires, contrôle l’excès de sébum, lisse les rides et raffermit la peau.</p>"
           }
         },
         "item_ENRFFq": {
           "type": "item",
           "settings": {
-            "title": "À quelle fréquence dois-je utiliser la crème Novaé ?",
+            "title": "À quelle fréquence dois-je utiliser la crème Novae ?",
             "content": "<p>Pour des résultats optimaux, appliquez-la matin et soir sur une peau propre et sèche.</p>"
           }
         },
@@ -599,8 +599,8 @@
         "item_RamKNF": {
           "type": "item",
           "settings": {
-            "title": "La crème Novaé est-elle testée sur les animaux ?",
-            "content": "<p>Non. Novaé est engagée pour le respect du bien-être animal. Aucun test n’est réalisé sur les animaux.</p>"
+            "title": "La crème Novae est-elle testée sur les animaux ?",
+            "content": "<p>Non. Novae est engagée pour le respect du bien-être animal. Aucun test n’est réalisé sur les animaux.</p>"
           }
         }
       },
