@@ -61,6 +61,11 @@
         "type": "shopify://apps/panda-bundle/blocks/app-embed/bd043a67-3fa0-49af-8092-717265d15649",
         "disabled": false,
         "settings": {}
+      },
+      "4812311509769194415": {
+        "type": "shopify://apps/vital-bundles-quantity-breaks/blocks/app-embed/da707778-cae4-42b0-9199-c7de2094170a",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
