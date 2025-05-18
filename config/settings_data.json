@@ -56,6 +56,11 @@
         "type": "shopify://apps/another-bundles/blocks/another/2c1fd58f-514b-48c1-ab75-0a3a1c3b8b2d",
         "disabled": false,
         "settings": {}
+      },
+      "14978928648839252053": {
+        "type": "shopify://apps/panda-bundle/blocks/app-embed/bd043a67-3fa0-49af-8092-717265d15649",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
